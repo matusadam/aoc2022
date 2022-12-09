@@ -1,0 +1,1 @@
+print(*[sum(j*3+(i+j+2)%3+1 if p else(j-i+1)%3*3+j+1 for i,j in[(ord(i)-65,ord(j)-88) for i,_,j in open("2").read().split("\n")])for p in[0,1]])
