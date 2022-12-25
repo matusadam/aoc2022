@@ -2,4 +2,5 @@
 https://adventofcode.com/2022/
 
 Language: Python 3
-Personal goal: code golf
+
+Fun year, although my solutions are ugly and slow!
